@@ -1,0 +1,6 @@
+{
+	"serverID": "526870993617027083", //Enter the serverID here
+	"botID": "526869332312064050", //Enter the userID of the bot here
+	"channelID": "526874391175495683", //Enter the channelID to move users to here
+	"botToken": "" //Enter your Bot Token here
+}
